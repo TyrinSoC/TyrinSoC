@@ -5,9 +5,9 @@ Hi there! I'm Tyrin, a passionate cybersecurity engineer with a love for problem
 
 ## Skills
 - Programming Languages: C+, Python
-- Certified: Security+
+- Certified: Security+ , Google IT Support
 
 ## Projects
-### Web Development
-- [Project 1](link): Description of project 1.
-- [Project 2](link): Description of project 2.
+[Microsoft Sentinel SIEM LAB](https://github.com/TyrinSoC/Microsoft-Sentinel_SIEM-Lab "SIEM Project"): Microsoft Sentinel is a cloud-native security information and event management (SIEM) solution that empowers organizations to detect, investigate, and respond to cybersecurity threats across their entire digital estate.
+
+[Active Directory LAB](https://github.com/TyrinSoC/Active-Directory_Domain-Services "AD DS Project"): Active Directory Domain Services (AD DS) is a centralized and hierarchical directory service provided by Microsoft Windows Server operating systems.
